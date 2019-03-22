@@ -3,7 +3,7 @@ kernel-MLP.ipynb - implementation of standard MLP using the same features table 
 kernel-xgboost.ipynb - implementation of gradient boosting taken from <a href='https://www.kaggle.com/ranjoranjan/single-xgboost-model'>XGBoost</a> </br>
         - Cross-Validation Quadratic Weighted Kappa =  0.482499011421059</br>
 </br>
-Current Kaggle Leaderboard: 435th (<a href='https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard'>link</a>)
+Current Kaggle Leaderboard: 435th (<a href='https://www.kaggle.com/c/petfinder-adoption-prediction/leaderboard'>link</a>)</br>
 Team Name: EEE298Team10
 
 <strong>Group Members:</strong></br>
