@@ -1,5 +1,7 @@
 kernel-MLP.ipynb - implementation of standard MLP using the same features table from <a href='https://www.kaggle.com/ranjoranjan/single-xgboost-model'>XGBoost</a></br>
+        - Cross-Validation Quadratic Weighted Kappa =  0.33866061924592417</br>
 kernel-xgboost.ipynb - implementation of gradient boosting taken from <a href='https://www.kaggle.com/ranjoranjan/single-xgboost-model'>XGBoost</a> </br>
+        - Cross-Validation Quadratic Weighted Kappa =  0.482499011421059</br>
 
 <strong>Group Members:</strong></br>
 1. Mark Vincent Ty</br>
